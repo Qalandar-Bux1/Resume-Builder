@@ -20,7 +20,10 @@
 
 | Main Screen | Resume Form | PDF Preview |
 |:-----------:|:-----------:|:-----------:|
-|<img width="721" height="404" alt="Picture4" src="https://github.com/user-attachments/assets/ddec9a6f-b0c6-4a96-8ee2-c7e7cd98ef62" />| ![Resume Form](docs/screenshots/resume-form.png) | ![PDF Preview](docs/screenshots/pdf-preview.png) |
+|<img width="687" height="359" alt="Picture1" src="https://github.com/user-attachments/assets/60c72ac4-222b-40bb-a17e-4a8703cefc67" />
+|<img width="911" height="494" alt="Picture2" src="https://github.com/user-attachments/assets/feb9b19d-1354-4c5a-a2b8-411984c362af" />|<img width="853" height="455" alt="Picture3" src="https://github.com/user-attachments/assets/f65162c4-f7f8-463b-be9f-8060698a11e9" />
+
+<img width="721" height="404" alt="Picture4" src="https://github.com/user-attachments/assets/ddec9a6f-b0c6-4a96-8ee2-c7e7cd98ef62" />
 
 ---
 
@@ -197,6 +200,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <div align="center">
 
 
-<img width="853" height="455" alt="Picture3" src="https://github.com/user-attachments/assets/f65162c4-f7f8-463b-be9f-8060698a11e9" />
-<img width="911" height="494" alt="Picture2" src="https://github.com/user-attachments/assets/feb9b19d-1354-4c5a-a2b8-411984c362af" />
-<img width="687" height="359" alt="Picture1" src="https://github.com/user-attachments/assets/60c72ac4-222b-40bb-a17e-4a8703cefc67" />
+
