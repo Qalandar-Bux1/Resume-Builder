@@ -22,6 +22,7 @@ This is a **Resume Builder** desktop application developed in **Java**, designed
 - **Java SE (Standard Edition)**
 - **Swing/AWT** for GUI
 - **iText** (optional) for PDF export
+<img width="687" height="359" alt="Picture1" src="https://github.com/user-attachments/assets/928ee45b-3e17-491d-a553-9c56ebced718" />
 
 ---
 
