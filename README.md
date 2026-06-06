@@ -20,7 +20,7 @@
 
 | Main Screen | Resume Form | PDF Preview |
 |:-----------:|:-----------:|:-----------:|
-| ![Main Screen](docs/screenshots/main-screen.png) | ![Resume Form](docs/screenshots/resume-form.png) | ![PDF Preview](docs/screenshots/pdf-preview.png) |
+|<img width="721" height="404" alt="Picture4" src="https://github.com/user-attachments/assets/ddec9a6f-b0c6-4a96-8ee2-c7e7cd98ef62" />| ![Resume Form](docs/screenshots/resume-form.png) | ![PDF Preview](docs/screenshots/pdf-preview.png) |
 
 ---
 
@@ -196,58 +196,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-## 📸 How to Add Screenshots to This README
 
-**Follow these exact steps:**
-
-**Step 1 — Take screenshots of your running app**
-Run the application, then take screenshots of:
-- The main window / home screen
-- The resume form being filled
-- The PDF preview screen
-- The exported PDF (optional)
-
-On Windows: `Win + Shift + S` to snip any area of screen
-
----
-
-**Step 2 — Create the screenshots folder in your project**
-```bash
-mkdir -p docs/screenshots
-```
-
----
-
-**Step 3 — Save your screenshots into that folder**
-Save your image files as:
-```
-docs/screenshots/main-screen.png
-docs/screenshots/resume-form.png
-docs/screenshots/pdf-preview.png
-```
-
----
-
-**Step 4 — Push the images to GitHub**
-```bash
-git add docs/screenshots/
-git commit -m "docs: add application screenshots"
-git push origin main
-```
-
----
-
-**Step 5 — Images now appear automatically in README**
-
-The screenshot table at the top of this README already references these paths.
-Once pushed, GitHub renders them automatically. ✅
-
----
-
-**Alternative — use GitHub web upload:**
-1. Go to your repo on GitHub
-2. Click `Add file` → `Upload files`
-3. Drag your images into `docs/screenshots/`
-4. Commit directly on GitHub
-
-</div>
+<img width="853" height="455" alt="Picture3" src="https://github.com/user-attachments/assets/f65162c4-f7f8-463b-be9f-8060698a11e9" />
+<img width="911" height="494" alt="Picture2" src="https://github.com/user-attachments/assets/feb9b19d-1354-4c5a-a2b8-411984c362af" />
+<img width="687" height="359" alt="Picture1" src="https://github.com/user-attachments/assets/60c72ac4-222b-40bb-a17e-4a8703cefc67" />
